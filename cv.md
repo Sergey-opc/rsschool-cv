@@ -22,3 +22,27 @@ VSCode, Github
 * Web-technologies: HTML, CSS
 * Databases: MySQL
 * OS: Windows
+
+### EDUCATION
+
+**Orsha College of VSU named after P.M. Masherova**
+
+_Software Engineer | September 2014 - June 2018_
+
+- Thesis project on the topic "Application for monitoring
+consumed, consumed and required calories".
+
+**VSU named P.M. Masherova**
+
+_Software Engineer | September 2018 - February 2022_
+
+- Diploma project in the field of forming product labels for
+printing on industrial thermal printers.
+
+### Languages
+
+Belarusian _В2 (Upper intermediate)_
+
+Russian _С2 (Proficiency)_
+
+English _B2 (Upper intermediate)_
