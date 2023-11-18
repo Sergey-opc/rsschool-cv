@@ -190,9 +190,9 @@
     position: absolute;
     height: 4px;
     top: auto;
-    right: 49.9%;
+    right: 50%;
     bottom: 2px;
-    left: 49.9%;
+    left: 50%;
     background: #ffdbbb;
     transition: 0.3s;
   }
